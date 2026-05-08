@@ -7,6 +7,31 @@ checkout my personal portfolio:-  https://shresthworks.netlify.app/
 I am currently pursuing my Bachelor of Technology (B.Tech) in Information Technology at Bharati Vidyapeeth's College of Engineering (BVCOE), New Delhi (2025–2029). 
 I am passionate about rapid prototyping through "Vibe Coding" and building impactful tech solutions.
 
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+
+<a href="https://x.com/shresth92742">
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shresth-goel-004117380/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@shresthgoel-i2g">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://codolio.com/profile/Shresthg">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:shresthgoel44@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 ---
 
 ### 🚀 About Me
@@ -15,7 +40,7 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 * 💡 **Interests:** Wealth Tech, Generative AI, Portfolio Analytics, and crafting intuitive user interfaces.
 
 ---
-### Tools that I have used:- 
+
 <h2 align="center">Tools that I've Used</h2>
 
 <p align="center">
@@ -29,7 +54,6 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 <br/>
 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -48,18 +72,10 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
 </p>
 
 ### 💻 Tech Stack
-* **Languages:** Java (DSA), Python (Data Science), JavaScript (ES6+), HTML5, CSS3  
+* **Languages:** Java (DSA), Python (Data Science), JavaScript (ES6+), HTML5, CSS3  ,RAG and langchain
 * **Frameworks & Tools:** React.js, Tailwind CSS, OpenAI API, Git/GitHub, Prompt Engineering, OCR Libraries  
 
 ---

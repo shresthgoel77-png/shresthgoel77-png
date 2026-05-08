@@ -98,6 +98,11 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 - Developed a Python NLP utility for automated audio extraction and searchable transcription  
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresthgoel77-png/shresthgoel77-png/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresthgoel77-png/shresthgoel77-png/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shresthgoel77-png/shresthgoel77-png/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📫 Let's Connect
 Feel free to reach out for collaborations, hackathons, or just a quick chat!

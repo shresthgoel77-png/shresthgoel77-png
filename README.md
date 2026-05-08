@@ -1,6 +1,8 @@
 # Hi there, I'm Shresth Goel 👋
 
-### B.Tech IT Student | Hackathon Enthusiast | AI & Web Developer
+### B.Tech IT Student | Generative AI | AI & Web Developer
+
+checkout my personal portfolio:-  https://shresthworks.netlify.app/
 
 I am currently pursuing my Bachelor of Technology (B.Tech) in Information Technology at Bharati Vidyapeeth's College of Engineering (BVCOE), New Delhi (2025–2029). 
 I am passionate about rapid prototyping through "Vibe Coding" and building impactful tech solutions.

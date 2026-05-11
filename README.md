@@ -7,6 +7,12 @@ checkout my personal portfolio:-  https://shresthworks.netlify.app/
 I am currently pursuing my Bachelor of Technology (B.Tech) in Information Technology at Bharati Vidyapeeth's College of Engineering (BVCOE), New Delhi (2025–2029). 
 I am passionate about rapid prototyping through "Vibe Coding" and building impactful tech solutions.
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=800&color=00FF6C&center=true&vCenter=true&width=1000&height=60&lines=IT+Student+%7C+Software+Developer;Full+Stack+Developer+(Web);AGENTIC+AI+Explorer;Active+Open-Source+Contributor" alt="Typing SVG headline" />
+  </a>
+</p>
+
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
@@ -33,6 +39,7 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 
 </p>
 ---
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 🚀 About Me
 * 🏆 **Hackathon Competitor:** National Finalist in Smart India Hackathon (SIH) 2025. Reached the final rounds of 8+ national-level hackathons (IITD ,DTU,NIT Delhi, NSUT Hack 4 Skills, MAIT, IGDTUW) within my first 6 months.
@@ -79,6 +86,7 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 * **Frameworks & Tools:** React.js, Tailwind CSS, OpenAI API, Git/GitHub, Prompt Engineering, OCR Libraries  
 
 ---
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 🛠️ Featured Projects
 
@@ -98,11 +106,19 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 - Developed a Python NLP utility for automated audio extraction and searchable transcription  
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shresthgoel77-png&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresthgoel77-png/shresthgoel77-png/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresthgoel77-png/shresthgoel77-png/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shresthgoel77-png/shresthgoel77-png/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 📫 Let's Connect
 Feel free to reach out for collaborations, hackathons, or just a quick chat!

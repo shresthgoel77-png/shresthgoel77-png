@@ -38,7 +38,7 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 </a>
 
 </p>
----
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 🚀 About Me
@@ -85,7 +85,7 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 * **Languages:** Java (DSA), Python (Data Science), JavaScript (ES6+), HTML5, CSS3  ,RAG and langchain
 * **Frameworks & Tools:** React.js, Tailwind CSS, OpenAI API, Git/GitHub, Prompt Engineering, OCR Libraries  
 
----
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 🛠️ Featured Projects

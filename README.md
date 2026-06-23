@@ -46,7 +46,7 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 * 🤝 **Community Builder:** Technical Representative for GDSC BVP (contributing to website development) and Content & Documentation Lead for TEDxBVCOE.
 * 💡 **Interests:** Wealth Tech, Generative AI, Portfolio Analytics, and crafting intuitive user interfaces.
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h2 align="center">Tools that I've Used</h2>
 
@@ -105,7 +105,8 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 #### 🎙️ Video-to-Text Transcriber
 - Developed a Python NLP utility for automated audio extraction and searchable transcription  
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shresthgoel77-png&theme=dark&hide_border=true)<br/>

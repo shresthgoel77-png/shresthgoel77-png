@@ -90,20 +90,21 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 
 ### 🛠️ Featured Projects
 
+#### 🛡️ Sentinel AI (Runtime AI Security & Observability)
+- Architected a model-agnostic runtime AI security layer using a React-FastAPI stack to protect enterprise LLM applications against prompt injections, jailbreaks, and data leaks
+- Engineered a RAG Shield Pipeline and Deep Prompt Analysis engine leveraging LangChain and LangGraph to sanitize vector database ingestions and assign real-time risk scores
+- Built a live interactive Threat Dashboard to visualize system analytics, tracking neutralized threats, verified safe requests, and execution logs in real-time
+
+#### 🎓 GradeIQ (GGSIPU Result Scraper & Analytics)
+- Engineered a robust web scraping utility utilizing a Node.js workflow to reliably bypass high-traffic server bottlenecks and timeouts on the official GGSIPU results portal
+- Automated the extraction of specific subject-wise marks, dynamic SGPA computation, and overall percentage conversion via Vanilla JavaScript
+- Designed a clean, responsive HTML5 dashboard to provide students with a seamless and instant view of their academic performance metrics
+- 
 #### 💸 Everyrupee (Wealth Tech & Portfolio Analytics)
 - Architected an AI-driven prototype using a React-Python stack to automate financial planning workflows  
 - Engineered an AI Tax Planner integrating OCR and LLM pipelines to parse ITR/bank PDFs for personalized tax strategies  
 - Built an Investment Analytics Dashboard that visualizes portfolio health and tracks CAGR from Zerodha/Excel datasets  
 - Deployed a RAG-powered AI Financial Assistant for real-time portfolio insights  
-
-#### 🏺 Kari-Ghar
-- Built a Generative AI platform that helps local artisans increase their reach by automating SEO-friendly product descriptions and Instagram content directly from images  
-
-#### 📚 Research Management System
-- Designed a frontend interface to improve research accessibility by digitizing publication metadata and faculty papers  
-
-#### 🎙️ Video-to-Text Transcriber
-- Developed a Python NLP utility for automated audio extraction and searchable transcription  
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 

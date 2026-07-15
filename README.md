@@ -99,7 +99,7 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 - Engineered a robust web scraping utility utilizing a Node.js workflow to reliably bypass high-traffic server bottlenecks and timeouts on the official GGSIPU results portal
 - Automated the extraction of specific subject-wise marks, dynamic SGPA computation, and overall percentage conversion via Vanilla JavaScript
 - Designed a clean, responsive HTML5 dashboard to provide students with a seamless and instant view of their academic performance metrics
-- 
+  
 #### 💸 Everyrupee (Wealth Tech & Portfolio Analytics)
 - Architected an AI-driven prototype using a React-Python stack to automate financial planning workflows  
 - Engineered an AI Tax Planner integrating OCR and LLM pipelines to parse ITR/bank PDFs for personalized tax strategies  

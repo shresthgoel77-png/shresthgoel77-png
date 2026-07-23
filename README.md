@@ -42,9 +42,9 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 🚀 About Me
-* 🏆 **Hackathon Competitor:** National Finalist in Smart India Hackathon (SIH) 2025. Reached the final rounds of 8+ national-level hackathons (IITD ,DTU,NIT Delhi, NSUT Hack 4 Skills, MAIT, IGDTUW) within my first 6 months.
-* 🤝 **Community Builder:** Technical Representative for GDSC BVP (contributing to website development) and Content & Documentation Lead for TEDxBVCOE.
-* 💡 **Interests:** Wealth Tech, Generative AI, Portfolio Analytics, and crafting intuitive user interfaces.
+* 🏆 **Hackathon Competitor:** National Finalist in Smart India Hackathon (SIH) 2025. Reached the final rounds of 15+ national-level hackathons (IITD ,DTU,NIT Delhi, NSUT, MAIT, IGDTUW) within my first 6 months.
+* 🤝 🌍 **Open Source & Community:** ECSoC Project Admin and active contributor to GSSoC & SSoC.
+* 💡 **Interests:** Multi-Agent Systems, Generative AI, Algorithmic Wealth Tech, and Conversational UI/UX.
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -82,9 +82,10 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 </p>
 
 ### 💻 Tech Stack
-* **Languages:** Java (DSA), Python (Data Science), JavaScript (ES6+), HTML5, CSS3  ,RAG and langchain
-* **Frameworks & Tools:** React.js, Tailwind CSS, OpenAI API, Git/GitHub, Prompt Engineering, OCR Libraries  
-
+* **Languages:**  Python , TypeScript & JavaScript, SQL, Java
+* **AI & Agentic Frameworks:** LangChain, LangGraph, LlamaIndex, RAG Pipelines, Vector DBs, OpenAI API
+* **Backend & Infrastructure:** FastAPI, Node.js, Docker, Kubernetes (K8s), Redis, Apache Kafka, Git/GitHub
+* **Frontend & Design:** React.js, Tailwind CSS, ShadCN UI
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -130,5 +131,5 @@ Feel free to reach out for collaborations, hackathons, or just a quick chat!
 - **Website:** https://shresthworks.netlify.app/
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=100&color=F92672&center=true&vCenter=true&width=600&lines=Stop+waiting+for+a+miracle.+Become+The+Monster.;%E2%80%94+TOJI" alt="Toji Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=F92672&center=true&vCenter=true&width=600&lines=Stop+waiting+for+a+miracle.+Become+The+Monster.;%E2%80%94+TOJI" alt="Toji Quote" />
 </div>

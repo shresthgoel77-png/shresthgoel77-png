@@ -130,5 +130,5 @@ Feel free to reach out for collaborations, hackathons, or just a quick chat!
 - **Website:** https://shresthworks.netlify.app/
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=20&color=F92672&center=true&vCenter=true&width=600&lines=Stop+waiting+for+a+miracle.+Become+The+Monster.;%E2%80%94+TOJI" alt="Toji Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=100&color=F92672&center=true&vCenter=true&width=600&lines=Stop+waiting+for+a+miracle.+Become+The+Monster.;%E2%80%94+TOJI" alt="Toji Quote" />
 </div>

@@ -110,12 +110,10 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shresthgoel77-png&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false&v=2)
-<br/>
-![](https://streak-stats.demolab.com/?user=shresthgoel77-png&theme=dark&hide_border=true&v=2)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&v=2)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresthgoel77-png/shresthgoel77-png/output/github-contribution-grid-snake-dark.svg">

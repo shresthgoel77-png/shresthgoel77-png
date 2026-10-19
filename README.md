@@ -41,10 +41,10 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### 🚀 About Me
-* 🏆 **Hackathon Competitor:** National Finalist in Smart India Hackathon (SIH) 2025. Reached the final rounds of 15+ national-level hackathons (IITD ,DTU,NIT Delhi, NSUT, MAIT, IGDTUW) within my first 6 months.
-* 🤝 🌍 **Open Source & Community:** ECSoC Project Admin and active contributor to GSSoC & SSoC.
-* 💡 **Interests:** Multi-Agent Systems, Generative AI, Algorithmic Wealth Tech, and Conversational UI/UX.
+###  About Me
+*  **Hackathon Competitor:** National Finalist in Smart India Hackathon (SIH) 2025. Reached the final rounds of 15+ national-level hackathons (IITD ,DTU,NIT Delhi, NSUT, MAIT, IGDTUW) within my first 6 months.
+*  **Open Source & Community:** ECSoC Project Admin and active contributor to GSSoC & SSoC.
+*  **Interests:** Multi-Agent Systems, Generative AI, Algorithmic Wealth Tech, and Conversational UI/UX.
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -81,7 +81,7 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 
 </p>
 
-### 💻 Tech Stack
+###  Tech Stack
 * **Languages:**  Python , TypeScript & JavaScript, SQL, Java
 * **AI & Agentic Frameworks:** LangChain, LangGraph, LlamaIndex, RAG Pipelines, Vector DBs, OpenAI API
 * **Backend & Infrastructure:** FastAPI, Node.js, Docker, Kubernetes (K8s), Redis, Apache Kafka, Git/GitHub
@@ -89,27 +89,18 @@ I am passionate about rapid prototyping through "Vibe Coding" and building impac
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### 🛠️ Featured Projects
+## Featured Projects
 
-#### 🛡️ Sentinel AI (Runtime AI Security & Observability)
-- Architected a model-agnostic runtime AI security layer using a React-FastAPI stack to protect enterprise LLM applications against prompt injections, jailbreaks, and data leaks
-- Engineered a RAG Shield Pipeline and Deep Prompt Analysis engine leveraging LangChain and LangGraph to sanitize vector database ingestions and assign real-time risk scores
-- Built a live interactive Threat Dashboard to visualize system analytics, tracking neutralized threats, verified safe requests, and execution logs in real-time
-
-#### 🎓 GradeIQ (GGSIPU Result Scraper & Analytics)
-- Engineered a robust web scraping utility utilizing a Node.js workflow to reliably bypass high-traffic server bottlenecks and timeouts on the official GGSIPU results portal
-- Automated the extraction of specific subject-wise marks, dynamic SGPA computation, and overall percentage conversion via Vanilla JavaScript
-- Designed a clean, responsive HTML5 dashboard to provide students with a seamless and instant view of their academic performance metrics
-  
-#### 💸 Everyrupee (Wealth Tech & Portfolio Analytics)
-- Architected an AI-driven prototype using a React-Python stack to automate financial planning workflows  
-- Engineered an AI Tax Planner integrating OCR and LLM pipelines to parse ITR/bank PDFs for personalized tax strategies  
-- Built an Investment Analytics Dashboard that visualizes portfolio health and tracks CAGR from Zerodha/Excel datasets  
-- Deployed a RAG-powered AI Financial Assistant for real-time portfolio insights  
+| Project | What It Does |
+|---|---|
+| [**Argus**](https://github.com/AyushBinjola1/Pratyaksha) | Event-driven GitHub repository intelligence platform — deterministic analyzers for CI/CD & security, Gemini root-cause reasoning, and automated bot insights |
+| [**Aether**](https://github.com/AyushBinjola1/EveryRupee) | Citation-grounded multimodal RAG system — adaptive retrieval & Gemini reranking across text, PDFs, audio/video, evaluated via LLM-as-a-Judge |
+| [**AgentBench**](https://github.com/AyushBinjola1/Swar-Setu) | Reproducible LLM coding-agent benchmarking framework — sandboxed execution, Git state tracking & 7-metric trajectory quality evaluation pipeline |
+| [**AspectScribe**](https://github.com/AyushBinjola1/ecospheretiet) | PEFT/LoRA fine-tuned Qwen2.5-1.5B for Aspect-Based Sentiment Analysis — structured JSON prediction, FastAPI inference & +17.3 F1 score improvement |
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shresthgoel77-png&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shresthgoel77-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)

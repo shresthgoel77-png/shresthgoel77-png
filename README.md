@@ -2,10 +2,13 @@
 
 ### B.Tech IT Student | Generative AI | AI & Web Developer
 
-checkout my personal portfolio:-  https://shresthworks.netlify.app/
+<img align="right" width="35%" src="https://github.com/shresthgoel77-png/shresthgoel77-png/blob/main/assets/gojo.gif" alt="gojo" />
 
-I am currently pursuing my Bachelor of Technology (B.Tech) in Information Technology at Bharati Vidyapeeth's College of Engineering (BVCOE), New Delhi (2025–2029). 
-I am passionate about rapid prototyping through "Vibe Coding" and building impactful tech solutions.
+✨ **Check out my [Personal Portfolio](https://shresthworks.netlify.app/)**
+
+🎓 I am currently pursuing my **Bachelor of Technology (B.Tech)** in Information Technology at *Bharati Vidyapeeth's College of Engineering (BVCOE)*, New Delhi (2025–2029). 
+
+🚀 I am passionate about rapid prototyping through **"Vibe Coding"** and building impactful tech solutions.
 
 <p align="center">
   <a href="https://git.io/typing-svg">

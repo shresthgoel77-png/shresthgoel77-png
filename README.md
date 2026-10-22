@@ -1,10 +1,10 @@
-# Hi there, I'm Shresth Goel 👋
+# Hi there, I'm Shresth Goel 
 
 <img align="right" width="35%" src="https://github.com/shresthgoel77-png/shresthgoel77-png/blob/main/assets/gojo.gif" alt="gojo" />
 
 ### B.Tech IT Student | Generative AI | AI & Web Developer
 
-✨ **Check out my [Personal Portfolio](https://shresthworks.netlify.app/)**
+**Check out my [Personal Portfolio](https://shresthworks.netlify.app/)**
 
 🎓 I am currently pursuing my **Bachelor of Technology (B.Tech)** in Information Technology at *Bharati Vidyapeeth's College of Engineering (BVCOE)*, New Delhi (2025–2029). 
 

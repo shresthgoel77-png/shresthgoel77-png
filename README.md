@@ -97,8 +97,9 @@
 | Project | What It Does |
 |---|---|
 | [**Argus**](https://github.com/AyushBinjola1/Pratyaksha) | Event-driven GitHub repository intelligence platform — deterministic analyzers for CI/CD & security, Gemini root-cause reasoning, and automated bot insights |
-| [**Aether**](https://github.com/AyushBinjola1/EveryRupee) | Citation-grounded multimodal RAG system — adaptive retrieval & Gemini reranking across text, PDFs, audio/video, evaluated via LLM-as-a-Judge |
+| [**Aether**](https://github.com/shresthgoel77-png/Aether.git) | Citation-grounded multimodal RAG system — adaptive retrieval & Gemini reranking across text, PDFs, audio/video, evaluated via LLM-as-a-Judge |
 | [**AgentBench**](https://github.com/AyushBinjola1/Swar-Setu) | Reproducible LLM coding-agent benchmarking framework — sandboxed execution, Git state tracking & 7-metric trajectory quality evaluation pipeline |
+| [**AspectScribe**](https://github.com/AyushBinjola1/ecospheretiet) | PEFT/LoRA fine-tuned Qwen2.5-1.5B for Aspect-Based Sentiment Analysis — structured JSON prediction, FastAPI inference & +17.3 F1 score improvement |
 | [**AspectScribe**](https://github.com/AyushBinjola1/ecospheretiet) | PEFT/LoRA fine-tuned Qwen2.5-1.5B for Aspect-Based Sentiment Analysis — structured JSON prediction, FastAPI inference & +17.3 F1 score improvement |
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">

@@ -20,25 +20,27 @@
 
 <p align="center">
 
-<a href="https://x.com/shresth92742">
-  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+<p align="center">
+  <a href="https://x.com/shresth92742" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" width="32" height="32" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shresth-goel-004117380/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" alt="LinkedIn" />
 </a>
-
-<a href="https://www.linkedin.com/in/shresth-goel-004117380/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@shresthgoel-i2g">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://codolio.com/profile/Shresthg">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:shresthgoel44@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codolio.com/profile/Shresthg" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@shresthgoel-i2g" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" height="32" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shresthgoel44@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
+  </a>
+</p>
 
 </p>
 

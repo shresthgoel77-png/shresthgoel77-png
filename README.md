@@ -6,9 +6,9 @@
 
 **Check out my [Personal Portfolio](https://shresthworks.netlify.app/)**
 
-🎓 I am currently pursuing my **Bachelor of Technology (B.Tech)** in Information Technology at *Bharati Vidyapeeth's College of Engineering (BVCOE)*, New Delhi (2025–2029). 
+🔭 AI/ML Systems Engineer architecting Agentic workflows, Multimodal RAG pipelines, and rigorous LLM evaluation frameworks.
 
-🚀 I am passionate about rapid prototyping through **"Vibe Coding"** and building impactful tech solutions.
+⚙️ Engineering deterministic intelligence platforms and fine-tuning models for high-performance, production-grade execution.
 
 <p align="center">
   <a href="https://git.io/typing-svg">

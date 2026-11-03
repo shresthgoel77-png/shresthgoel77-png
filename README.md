@@ -2,7 +2,7 @@
 
 <img align="right" width="35%" src="https://github.com/shresthgoel77-png/shresthgoel77-png/blob/main/assets/gojo.gif" alt="gojo" />
 
-### B.Tech IT Student | Generative AI | AI & Web Developer
+### AI Engineer
 
 **Check out my [Personal Portfolio](https://shresthworks.netlify.app/)**
 

@@ -131,3 +131,7 @@ Feel free to reach out for collaborations, hackathons, or just a quick chat!
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=F92672&center=true&vCenter=true&width=600&lines=Stop+waiting+for+a+miracle.+Become+The+Monster.;%E2%80%94+TOJI" alt="Toji Quote" />
 </div>
+
+<p align="center">
+  <img src="https://profile-counter-staging.vercel.app/api/counter" alt="Jujutsu Kaisen profile visitor counter with six character number cards" width="360" />
+</p>
